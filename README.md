@@ -1,5 +1,5 @@
 # ¡Hola! Soy Jesús 👋
----
+
 Enfocado en el **uso de Machine learning para a la recolección, analisis y explotación de datos**. Mi obsesión es usar la robotica, el procesamiento de datos en tiempo real para automatizar procesos usar esos resultados para medir la calidad del trabajo y aplicar mejora continua.
 
 <!-- ## Contactame

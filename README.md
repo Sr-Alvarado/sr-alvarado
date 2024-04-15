@@ -1,9 +1,18 @@
-# Hi! I'm Jesús 👋
+# ¡Hola! Soy Jesús 👋
 ---
-<!--
-**Sr-Alvarado/sr-alvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enfocado en el **uso de Machine learning para a la recolección, analisis y explotación de datos**. Mi obsesión es usar la robotica, el procesamiento de datos en tiempo real para automatizar procesos usar esos resultados para medir la calidad del trabajo y aplicar mejora continua.
 
-Here are some ideas to get you started:
+<!-- ## Contactame
+--- -->
+
+<!--
+Fuente:
+- Etiquetas/parches: https://shields.io/badges
+- Headmap 3D: https://github.com/yoshi389111/github-profile-3d-contrib
+
+Inspiration:
+- https://github.com/igijon
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
